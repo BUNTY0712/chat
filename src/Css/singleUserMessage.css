@@ -1,0 +1,118 @@
+.singleusermessage-box{
+    height: 100vh;
+}
+.sum-status{
+    display: flex;
+}
+.sum-active-box{
+    font-weight: 400;
+    font-size: 12px;
+}
+.sum-alluser{
+    display: flex;
+}
+.sum-username{
+    display: flex;
+}
+.sum-input-search{
+    display: flex;
+}
+.sum-input-search-box{
+    color: grey;
+}
+.sum-date-time{
+    font-size: 12px;
+    color: #999999;
+}
+.sum-date-time-box{
+    position: relative;
+}
+.sum-date-time-box1{
+    position: absolute;
+    z-index: 99;
+    display: block;
+}
+.sum-date-time-box2{
+    display: flex;
+}
+.sum-chat-box{
+    box-shadow: 3px 3px 16px -4px rgb(0 0 0 / 30%);
+    height: auto;
+    border-radius: 8px;
+    white-space: pre-wrap;
+    overflow: hidden;
+    word-wrap: break-word;
+}
+.sum-chat-box1{
+    text-overflow: ellipsis;
+}
+.sum-chat-box2{
+    display: flex;
+    justify-content: space-between;
+}
+.sum-chat-box3{
+    height: auto;
+}
+.sum-chat-box4{
+    margin-bottom: -15px;
+}
+.sum-chat-message-box{
+    height: auto;
+}
+.sum-chat-message-seen{
+    margin-top: -30px;
+}
+.sum-chat-message-seen-box{
+    cursor: pointer;
+    padding: 2px 5px;
+    border-radius: 13px;
+}
+.sum-chat-message-seen-box1{
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+.sum-chat-img-box{
+    width: 100px;
+}
+.sum-chat-pdf-box{
+    width: 100px;
+}
+.sum-chat-pdf-box1{
+    cursor: pointer;
+}
+.sum-chat-reply-box{
+    position: absolute;
+    z-index: 99;
+    display: block;
+}
+.sum-chat-reply-box1{
+    display: flex;
+}
+.sum-chat-delete-box{
+    display: flex;
+}
+.sum-text-chat-box{
+    box-shadow: 3px 3px 16px -4px rgb(0 0 0 / 30%);
+    height: auto;
+    padding-bottom: 2px;
+    border-radius: 8px;
+    white-space: pre-wrap;
+    overflow: hidden;
+    word-wrap: break-word;
+}
+.sum-text-chat-box1{
+    text-overflow: ellipsis;
+}
+.sum-text-chat-box2{
+    display: flex;
+    justify-content: space-between;
+}
+.sum-dropdown-ul{
+    padding: 10px;
+    background: #FFC0CB;
+}
+.sum-dropdown-li{
+    box-shadow: 0 0 5px;
+    background: whitey;
+}

@@ -1,0 +1,42 @@
+.centered-box {
+  display: flex;
+  justify-content: center;
+  background: white;
+  box-shadow: 0 0 5px;
+}
+
+.styled-input {
+  padding: 7px 15px;
+  width: 250px;
+  border: none;
+  outline: none;
+  background: #eeeeee;
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+.custom-input {
+  padding: 7px 15px;
+  width: 250px;
+  border: none;
+  outline: none;
+  background: #eeeeee;
+  border-radius: 8px;
+  font-size: 14px;
+}
+
+.button {
+  background-color: #1b2295;
+  color: white;
+  padding: 8px 50px;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.text {
+  font-size: 14px;
+  text-align: justify;
+  color: red;
+}

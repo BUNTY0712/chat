@@ -1,0 +1,71 @@
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  overflow-x: scroll;
+  margin-top: 16px;
+  margin-left: 16px;
+}
+
+.media-box {
+  flex-basis: calc(50% - 16px);
+  margin: 8px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.media-image {
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+}
+
+.no-media {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin: 10px 80px;
+  margin-top: 16px;
+  margin-left: 24px;
+}
+
+.doc-container {
+  display: flex;
+  margin-top: 16px;
+}
+
+.doc-box {
+  margin-right: 16px;
+  margin-left: 16px;
+}
+
+.doc-image {
+  width: 100px;
+  cursor: pointer;
+}
+
+.doc-text {
+  color: white;
+  margin-top: 10px;
+}
+
+.link-container {
+  display: flex;
+  margin-top: 16px;
+}
+
+.link-box {
+  margin-right: 16px;
+  margin-left: 16px;
+}
+
+.message-box {
+  background: white;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.pointer {
+  cursor: pointer;
+}

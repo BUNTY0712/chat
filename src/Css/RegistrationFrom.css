@@ -1,0 +1,33 @@
+/* .adduser:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  background-color: rgb(255 255 255) !important;
+} */
+.btnuser:hover {
+  background-color: #1c51fd !important;
+}
+
+.validation-style {
+  color: red;
+  font-size: 12px;
+  margin-top: -12px;
+  margin-bottom: 18px;
+}
+.validation-style-date {
+  color: red;
+  font-size: 12px;
+  margin-top: 5px;
+}
+.userbutton {
+  margin-top: 20px;
+}
+
+.custom-button {
+  background: #034f75;
+  color: white;
+  padding: 8px 10px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px grey;
+  text-align: center;
+  cursor: pointer;
+}

@@ -1,0 +1,17 @@
+.flex-centered {
+  display: flex;
+  justify-content: center;
+  background: white;
+  box-shadow: 0 0 5px;
+  border-radius: 18px;
+}
+
+.custom-button {
+  background: #1b2295; /* This overrides the previous blue background */
+  color: white;
+  padding: 8px 50px;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 13px;
+  cursor: pointer;
+}
